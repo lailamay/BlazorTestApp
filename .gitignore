@@ -1,0 +1,44 @@
+# .NET and Visual Studio files
+bin/
+obj/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+packages/
+
+# User-specific files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Some obvious files to ignore in a VUEMED solution
+	
+Debug/
+Release/
+	
+x64/
+x86/
+	
+[Bb]in/
+[Oo]bj/
+	
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+	
+[Ll]og/
+[Ll]ogs/
